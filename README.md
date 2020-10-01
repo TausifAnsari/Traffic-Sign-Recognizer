@@ -1,5 +1,5 @@
 # Traffic-Sign-Recogizer
-#Introduction:
+# Introduction:
 >Nowadays,	there	is	a	lot	of	attention	being	given	to	the	ability	of	the	car	to	drive	itself.	One	of	
 the	many	important	aspects	for	a	self	driving	car	is	the	ability	for	it	to	detect	traffic	signs	in	order	
 to	provide	safety	and	security	for	the	people	not	only	inside	the	car	but	also	outside	of	it.
